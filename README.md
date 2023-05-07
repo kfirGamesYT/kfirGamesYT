@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://kfirgamesyt.github.io/kfir-Portfolio/](https://kfirgamesyt.github.io/kfir-Portfolio/)
-
 - 📫 How to reach me **kfirGamesYT@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
@@ -30,4 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kfirgamesyt&show_icons=true&locale=en" alt="kfirgamesyt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kfirgamesyt&" alt="kfirgamesyt" /></p>
+
+<a href="https://discord.gg/CkKjB9bSzD" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
 
